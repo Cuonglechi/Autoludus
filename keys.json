@@ -10,7 +10,7 @@
     "key": "6A1AD-A327F-BBCEB-DD3A2",
     "package": "hybrid",
     "expire": "2035-09-06",
-    "active": true,
+    "active": false,
     "max_devices": 1,
     "device_ids": [],
     "notes": ""
