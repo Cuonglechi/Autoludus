@@ -5,5 +5,95 @@
     "expire": "2025-12-31",
     "active": true,
     "notes": "demo"
+  },
+  {
+    "key": "6A1AD-A327F-BBCEB-DD3A2",
+    "package": "hybrid",
+    "expire": "2035-09-06",
+    "active": true,
+    "max_devices": 1,
+    "device_ids": [],
+    "notes": ""
+  },
+  {
+    "key": "BA88C-9091C-2A838-7D1F5",
+    "package": "hybrid",
+    "expire": "2035-09-06",
+    "active": true,
+    "max_devices": 1,
+    "device_ids": [],
+    "notes": ""
+  },
+  {
+    "key": "08CBB-77D08-AA9C5-F8C06",
+    "package": "hybrid",
+    "expire": "2035-09-06",
+    "active": true,
+    "max_devices": 1,
+    "device_ids": [],
+    "notes": ""
+  },
+  {
+    "key": "F6547-1CEC0-9FBF1-798E7",
+    "package": "hybrid",
+    "expire": "2035-09-06",
+    "active": true,
+    "max_devices": 1,
+    "device_ids": [],
+    "notes": ""
+  },
+  {
+    "key": "4E20D-E46A5-917BC-7A894",
+    "package": "hybrid",
+    "expire": "2035-09-06",
+    "active": true,
+    "max_devices": 1,
+    "device_ids": [],
+    "notes": ""
+  },
+  {
+    "key": "8398A-43F9E-1EF9F-C732B",
+    "package": "hybrid",
+    "expire": "2035-09-06",
+    "active": true,
+    "max_devices": 1,
+    "device_ids": [],
+    "notes": ""
+  },
+  {
+    "key": "FB475-02B40-0F86E-10FFE",
+    "package": "hybrid",
+    "expire": "2035-09-06",
+    "active": true,
+    "max_devices": 1,
+    "device_ids": [],
+    "notes": ""
+  },
+  {
+    "key": "C3B96-73BB6-81E82-3D331",
+    "package": "hybrid",
+    "expire": "2035-09-06",
+    "active": true,
+    "max_devices": 1,
+    "device_ids": [],
+    "notes": ""
+  },
+  {
+    "key": "B80AC-A58F5-BB918-AB95D",
+    "package": "hybrid",
+    "expire": "2035-09-06",
+    "active": true,
+    "max_devices": 1,
+    "device_ids": [],
+    "notes": ""
+  },
+  {
+    "key": "BE6FA-32C25-358EE-BF079",
+    "package": "hybrid",
+    "expire": "2035-09-06",
+    "active": true,
+    "max_devices": 1,
+    "device_ids": [],
+    "notes": ""
   }
 ]
