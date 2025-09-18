@@ -4,7 +4,9 @@
     "package": "PRO",
     "expire": "2025-12-31",
     "active": true,
-    "notes": "demo"
+    "notes": "demo",
+    "max_devices": 1,
+    "device_ids": []
   },
   "99B9D988B16DEEC": {
     "key": "CUONG08",
